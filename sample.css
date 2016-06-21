@@ -1,4 +1,4 @@
-body {  font-family: arial; background-color: #778899;  }
+body {  font-family: arial; background-color: #000; }
 
 h1 {        
 		background-color:#778899; 
@@ -12,9 +12,10 @@ h1 {
     }
 
 header{
-	/*text-align: center;*/
-	font-family: comic sans;
-	background-color: #09f;
+	text-align: center;
+	font-family: Arial Black;
+	background-color: #001f3f;
+    text-transform: uppercase;
 }
 head{max-width: 20px;}
 table {    background-color: #F60;    border: 1px solid #39F;    width: 100%;    }

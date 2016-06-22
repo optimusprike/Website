@@ -1,4 +1,8 @@
-body {  font-family: arial; background-color: #000; }
+/*body {  font-family: arial; background-color: #001f3f; }*/
+body  {
+        background: linear-gradient(to bottom, #001f3f 0%,#001f3f 25%,#000000 25%,white 25%,white 50%,#001f3f 50%,#001f3f 50%,#001f3f 75%, #000000 75%,white 75%,white 100%); 
+        font-family: arial;
+}
 
 h1 {        
 		background-color:#778899; 
@@ -103,3 +107,12 @@ iframe{
     height: 75px;
     width: 75px;
 }
+
+h2 {        
+   
+        font-size: 25px;  
+        color:#39F; 
+        display:inline-block;
+        
+        font-size: 70%;
+    }      

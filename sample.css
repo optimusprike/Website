@@ -92,7 +92,7 @@ form {
 }
 
 iframe{
-    text-aling:center;
+    text-aling:left;
 }
 #contact-button{background-color: #09f;
     border: none;
@@ -116,3 +116,18 @@ h2 {
         
         font-size: 70%;
     }      
+.button {
+    text-align: right;
+    background: none;
+    border: none;
+    margin: none;
+    padding: none;
+
+}
+nav li{
+    display: block;
+    float: right;
+}
+nav li b{
+    float: left;
+}
